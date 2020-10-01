@@ -4,4 +4,4 @@ The bitwarden Website project is written using Jekyll, which is hosted/deployed 
 
 # Contribute
 
-Code contributions are welcome! Please commit any pull requests against the `master` branch.
+Code contributions are welcome! Please commit any pull requests against the `master` branch. We shall look into it and update it if suitable.
